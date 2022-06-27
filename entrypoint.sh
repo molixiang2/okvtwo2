@@ -5,9 +5,9 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=b0f5c47d-1925-45a6-b532-ca2c7f830376
+ID=84f60ad3-fc03-4309-8ed2-6f5cfc1b786f
 AID=64
-WSPATH=/
+WSPATH=/ray222
 PORT=80
 
 # Write V2Ray configuration
