@@ -1,5 +1,5 @@
 services:
-  oktetov2ray2:
+  oktetov2ray22:
     build: .
     shm_size: 2.6gb
     ports:
